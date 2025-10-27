@@ -8,7 +8,7 @@ I love transforming ideas into **powerful, production-ready digital solutions**.
 ## 💻 Backend Expertise
 
 * **Python:** Django, Flask, FastAPI, Django REST Framework
-* **PHP:** Custom APIs, server-side logic, eCommerce backends
+* **PHP:** Laravel, server-side logic, eCommerce backends
 * **Database:** MySQL (efficient queries & optimization)
 
 ---
